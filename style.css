@@ -7,8 +7,10 @@ body{
 
 table{
     width: 40%;
+    height: 40%;
     float:right;
     margin: -76px 146px 0px 0;
+    background-color: #633f3f61;
 
 }
 
@@ -30,7 +32,15 @@ h1{
 form{
     background-color: #633f3f61;
     opacity: .7;
-    width: 20%;
+    width: 25%;
+    height: 25%;
     margin: 0 0 0 318px;
+    text-align: center;
+    color: white;
     
+}
+.fit{
+    box-sizing: 20%;
+    width: 50%;
+    height: 35%;
 }
