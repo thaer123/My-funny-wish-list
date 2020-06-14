@@ -1,0 +1,36 @@
+body{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+table{
+    width: 40%;
+    float:right;
+    margin: -76px 146px 0px 0;
+
+}
+
+
+#navv{
+    background-color: #e12e5b;
+    text-align: center;
+}
+/* header{
+    background-color: #e12e5b;
+}
+h1{
+    background-color: #e12e5b;
+} */
+
+#submit-date{
+    background-color: #e12e5b;
+}
+form{
+    background-color: #633f3f61;
+    opacity: .7;
+    width: 20%;
+    margin: 0 0 0 318px;
+    
+}
